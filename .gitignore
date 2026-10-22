@@ -1,0 +1,26 @@
+# Downloaded videos, playlists and archive state
+downloads/
+
+# Your own playlists; see playlists.example.txt
+playlists.txt
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editors
+.vscode/
+.idea/
+*.swp

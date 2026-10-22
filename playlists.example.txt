@@ -1,0 +1,8 @@
+# Copy this file to playlists.txt and add your own playlists.
+#
+# One playlist per line: URL, then an optional folder name under downloads/.
+# Without a folder name, the playlist's YouTube title is used.
+# Lines starting with # are skipped.
+
+https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID Sleep Music
+https://www.youtube.com/playlist?list=ANOTHER_PLAYLIST_ID
